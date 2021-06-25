@@ -1,5 +1,5 @@
 # Dimmer-wifi-Blynk
-Repositorio donde se encuentra el código de Arduino y el esquema eléctrico para el dimmer Wifi construido con el esp8266 y el uso de Blynk.
+Repositorio donde se encuentra el código de Arduino y el esquema eléctrico para el dimmer Wifi construido con el ESP8266 y el uso de Blynk.
 
 Los componentes que necesitarás:
 * ESP8266 (en NodeMCU)
