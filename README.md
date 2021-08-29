@@ -10,4 +10,4 @@ Los componentes que necesitarás:
 * Dos resistores de 47kOhms, 1Watt
 * Resistores de 330, 1k y 10kOhms
 
-Para mayor información sobre los códigos de nuestro repositorio, escríbenos a: mecubatronicamx@gmail.com
+Para mayor información sobre los códigos de nuestro repositorio, escríbenos a: contacto.mecuba@gmail.com
